@@ -1,0 +1,22 @@
+# Dependências
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build e Compilação TypeScript
+dist/
+build/
+*.js
+*.js.map
+*.tsbuildinfo
+
+# Sensíveis
+.env
+.env.*
+
+# Ferramentas e IDEs
+.vscode/
+.idea/
+.eslintcache
+*.log
+coverage/   
